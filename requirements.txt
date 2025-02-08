@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+ultralytics
+sqlalchemy
+pymysql
+alembic
+python-magic-bin  # تحقق من نوع الملف على Windows
+python-multipart  # لدعم رفع الملفات في FastAPI
+slowapi  # لإضافة Rate Limiting لمنع إساءة الاستخدام
